@@ -1849,5 +1849,15 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
-
+a.arrow {
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    background: url(img/H1-bg1.png) no-repeat center bottom;
+    padding-bottom: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: 70%;
+}
 /*# sourceMappingURL=style.css.map */
