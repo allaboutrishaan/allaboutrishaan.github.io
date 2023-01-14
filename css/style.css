@@ -1854,10 +1854,12 @@ a.arrow {
     text-transform: uppercase;
     color: #353535;
     letter-spacing: 1px;
-    background: url(img/H1-bg1.png) no-repeat center bottom;
+    background: url(../images/lH1-bg1.png) no-repeat center bottom;
     padding-bottom: 30px;
     font-weight: bold;
     position: absolute;
-    top: 70%;
-}
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;}
 /*# sourceMappingURL=style.css.map */
